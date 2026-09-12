@@ -1,4 +1,5 @@
-🔢 MNIST Handwritten Digit Classification
+# 🔢 MNIST Handwritten Digit Classification
+
 A deep learning project comparing three approaches to classifying handwritten digits from the MNIST dataset — a Convolutional Neural Network (CNN), a Feedforward Neural Network (FFNN), and a classical Support Vector Machine (SVM). Built to evaluate how well each architecture captures spatial patterns in image data.
 
 ## Overview
@@ -70,4 +71,6 @@ jupyter notebook notebooks/mnist_classification.ipynb
 3. Each model (CNN, FFNN, SVM) is trained and evaluated independently, with confusion matrices and sample predictions generated at the end.
 
 ## Author
-Rawan Alharthi. This was a team project with Aryam Manshi, Shaimaa Alghamdi, Raghad Alzulafi, and Taghreed Saleh Alzahrani — Department of Data Science, Umm Al-Qura University.
+Rawan Mansour
+
+This was a team project.
